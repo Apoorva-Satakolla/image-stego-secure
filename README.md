@@ -8,6 +8,7 @@ Make sure you have Python installed. Install the required libraries using:
 
 ```
 pip install opencv-python
+```
 
 ## 💻Usage
 
@@ -16,11 +17,13 @@ pip install opencv-python
 ```
 git clone https://github.com/your-username/image-stego-secure.git
 cd image-stego-secure
+```
 
 ### 2. Run the Script
 
 ```
 python image-stego-secure.py
+```
 
 ### 3. How it Works
 
