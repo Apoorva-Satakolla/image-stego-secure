@@ -1,6 +1,6 @@
 # 📷Image Stego Secure 
 
-A Python based *Image Steganography* tool that allows you to securely hide secret messages within the images. The tool uses basic image processing techniques to embed and extract messages, protected by a custom passcode.
+A Python based **Image Steganography** tool that allows you to securely hide secret messages within the images. The tool uses basic image processing techniques to embed and extract messages, protected by a custom passcode.
 
 ## 🛠️Requirements
 
@@ -15,7 +15,7 @@ pip install opencv-python
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/your-username/image-stego-secure.git
+git clone https://github.com/Apoorva-Satakolla/image-stego-secure.git
 cd image-stego-secure
 ```
 
